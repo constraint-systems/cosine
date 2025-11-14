@@ -1,0 +1,16 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+deploy.sh
+*.local
+count.txt
+.env
+.env.production
+.nitro
+.tanstack
+.wrangler
+.output
+.vinxi
+todos.json
+public/og-cache
